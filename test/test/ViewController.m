@@ -5,7 +5,7 @@
 //  Created by Kamil Schild on 30.05.2016.
 //  Copyright © 2016 Kamil Schild. All rights reserved.
 //
-
+// to jest linia dopisana w GitHUB
 #import "ViewController.h"
 
 @interface ViewController ()
