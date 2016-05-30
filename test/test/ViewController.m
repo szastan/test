@@ -6,6 +6,7 @@
 //  Copyright © 2016 Kamil Schild. All rights reserved.
 //
 // to jest linia dopisana w GitHUB
+// druga linia z GitHUB
 #import "ViewController.h"
 
 @interface ViewController ()
